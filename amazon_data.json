@@ -1,0 +1,830 @@
+{
+    "status": "OK",
+    "request_id": "8ba9cc3d-5f0b-4b7e-844b-695cfbd975f1",
+    "parameters": {
+        "country": "US",
+        "categories": [
+            "eletronic"
+        ],
+        "price_range": "ALL",
+        "discount_range": "ALL",
+        "num_pages": 1
+    },
+    "data": {
+        "deals": [
+            {
+                "deal_id": "3325e0ad",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "BLACK+DECKER Smart Portable Air Conditioner, 14,000 BTU for Rooms up to 700 Sq. Ft., Smart Portable AC with Follow Me Remote and Window Kit, BPACT14WT, White",
+                "deal_photo": "https://m.media-amazon.com/images/I/61hU4pP0FtL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/BLACK-DECKER-Portable-Conditioner-Display/dp/B01DLPUWHQ",
+                "canonical_deal_url": "https://www.amazon.com/deal/3325e0ad",
+                "deal_starts_at": "2025-06-18T07:00:00.000Z",
+                "deal_ends_at": "2025-06-28T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "399.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "449.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 11,
+                "savings_amount": {
+                    "amount": "50.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "11% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B01DLPUWHQ"
+            },
+            {
+                "deal_id": "a0650cc3",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Blink Outdoor 4 (newest model), Wireless smart security camera, two-year battery, 1080p HD day and infrared night live view, two-way talk \u2013 3 camera system",
+                "deal_photo": "https://m.media-amazon.com/images/I/41PtM0usvoL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Blink-Outdoor-4th-Gen-3-Camera/dp/B0B1N5FK48",
+                "canonical_deal_url": "https://www.amazon.com/deal/a0650cc3",
+                "deal_starts_at": "2025-06-17T07:00:00.000Z",
+                "deal_ends_at": "2025-07-12T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "99.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "259.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 62,
+                "savings_amount": {
+                    "amount": "160.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "62% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0B1N5FK48"
+            },
+            {
+                "deal_id": "7e61d999",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Amazon Fire TV Stick 4K (newest model) with AI-powered Fire TV Search, Wi-Fi 6, stream over 1.5 million movies and shows, free & live TV",
+                "deal_photo": "https://m.media-amazon.com/images/I/71+Pvh7WB6L.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Amazon-Fire-TV-Stick-4K-streaming-device/dp/B0CJM1GNFQ",
+                "canonical_deal_url": "https://www.amazon.com/deal/7e61d999",
+                "deal_starts_at": "2025-06-21T07:00:00.000Z",
+                "deal_ends_at": "2025-07-13T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "24.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "49.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 50,
+                "savings_amount": {
+                    "amount": "25.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "50% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0CJM1GNFQ"
+            },
+            {
+                "deal_id": "79adc889",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Simply 20x20x1 Air Filter, Merv 8, MPR 600, 6 Pack, Furnace Air Filter for HVAC (Actual Size: 19.75\"x19.75\"x0.75\") DUST, Pet, & Allergy Control",
+                "deal_photo": "https://m.media-amazon.com/images/I/815IQp1rCRL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/20x20x1-MERV-Pleated-Filters-Compatibility/dp/B07G2KT7FN",
+                "canonical_deal_url": "https://www.amazon.com/deal/79adc889",
+                "deal_starts_at": "2025-06-14T07:00:00.000Z",
+                "deal_ends_at": "2025-07-15T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "34.95",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "38.97",
+                    "currency": "USD"
+                },
+                "savings_percentage": 10,
+                "savings_amount": {
+                    "amount": "4.02",
+                    "currency": "USD"
+                },
+                "deal_badge": "10% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B07G2KT7FN"
+            },
+            {
+                "deal_id": "3b49eeba",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Shark AI Ultra Voice Control Robot Vacuum with Matrix Clean Navigation, Home Mapping, 60-Day Capacity, XL Self-Empty Base for Homes with Pets, Carpet & Hard Floors, Cool Grey",
+                "deal_photo": "https://m.media-amazon.com/images/I/71J+4EG7VdL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Shark-AV2511AE-Self-Empty-Capacity-Navigation/dp/B09T4YZGQR",
+                "canonical_deal_url": "https://www.amazon.com/deal/3b49eeba",
+                "deal_starts_at": "2025-06-25T03:05:00.000Z",
+                "deal_ends_at": "2025-07-20T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "297.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "599.0",
+                    "currency": "USD"
+                },
+                "savings_percentage": 50,
+                "savings_amount": {
+                    "amount": "301.01",
+                    "currency": "USD"
+                },
+                "deal_badge": "50% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B09T4YZGQR"
+            },
+            {
+                "deal_id": "df7573be",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "INSIGNIA 32\" Class F20 Series Smart HD Fire TV, Voice Remote with Alexa, Free & Live TV",
+                "deal_photo": "https://m.media-amazon.com/images/I/815E5aShTqL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/insignia-fire-tv-32-inch-class-f20-series-hd-smart-tv/dp/B09ZLTMWWH",
+                "canonical_deal_url": "https://www.amazon.com/deal/df7573be",
+                "deal_starts_at": "2025-06-20T04:55:00.000Z",
+                "deal_ends_at": "2025-07-08T06:55:00.000Z",
+                "deal_price": {
+                    "amount": "69.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "129.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 46,
+                "savings_amount": {
+                    "amount": "60.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "46% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B09ZLTMWWH"
+            },
+            {
+                "deal_id": "4756a6ed",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "INSIGNIA 55-inch Class F50 Series LED 4K UHD Smart Fire TV with Alexa Voice Remote (NS-55F501NA26)",
+                "deal_photo": "https://m.media-amazon.com/images/I/81jLRWNrTXL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/INSIGNIA-55-inch-Class-Remote-NS-55F501NA26/dp/B0F1BXQNR5",
+                "canonical_deal_url": "https://www.amazon.com/deal/4756a6ed",
+                "deal_starts_at": "2025-06-24T04:55:00.000Z",
+                "deal_ends_at": "2025-07-08T06:55:00.000Z",
+                "deal_price": {
+                    "amount": "189.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "349.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 46,
+                "savings_amount": {
+                    "amount": "160.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "46% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0F1BXQNR5"
+            },
+            {
+                "deal_id": "93777cfa",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Jackery Explorer 1000 v2 Portable Power Station,1070Wh LiFePO4 Battery,1500W AC/100W USB-C Output, 1 Hr Fast Charge, Solar Generator for Camping,Emergency, RV, Off-Grid Living(Solar Panel Optional)",
+                "deal_photo": "https://m.media-amazon.com/images/I/61JVKysP1nL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Jackery-Explorer-Portable-Generator-Emergency/dp/B0D7PPG25F",
+                "canonical_deal_url": "https://www.amazon.com/deal/93777cfa",
+                "deal_starts_at": "2025-06-24T07:00:00.000Z",
+                "deal_ends_at": "2025-07-08T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "448.98",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "799.0",
+                    "currency": "USD"
+                },
+                "savings_percentage": 44,
+                "savings_amount": {
+                    "amount": "350.02",
+                    "currency": "USD"
+                },
+                "deal_badge": "44% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0D7PPG25F"
+            },
+            {
+                "deal_id": "34263750",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Amazon Fire TV 75\" Omni QLED Series 4K UHD smart TV, Dolby Vision IQ, Fire TV Ambient Experience, local dimming, hands-free with Alexa",
+                "deal_photo": "https://m.media-amazon.com/images/I/61wsF9lZJmL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/introducing-amazon-fire-tv-75-inch-omni-qled-series-smart-tv/dp/B09N6Y5BTL",
+                "canonical_deal_url": "https://www.amazon.com/deal/34263750",
+                "deal_starts_at": "2025-06-16T17:00:00.000Z",
+                "deal_ends_at": "2025-07-12T06:55:00.000Z",
+                "deal_price": {
+                    "amount": "569.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "1099.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 48,
+                "savings_amount": {
+                    "amount": "530.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "48% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B09N6Y5BTL"
+            },
+            {
+                "deal_id": "c7614502",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Shark FlexBreeze Pro Mist Fan \u2014 Indoor & Outdoor, Integrated Misting, Pedestal to Tabletop, Corded or Cordless, Up to 24-Hr Battery, Oscillating, Charcoal Grey, FA302 (2025 Release)",
+                "deal_photo": "https://m.media-amazon.com/images/I/81mohJNXn0L.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Shark-FlexBreeze-Pro-Mist-Fan/dp/B0DMBXVFDK",
+                "canonical_deal_url": "https://www.amazon.com/deal/c7614502",
+                "deal_starts_at": "2025-06-15T07:00:00.000Z",
+                "deal_ends_at": "2025-07-13T04:00:00.000Z",
+                "deal_price": {
+                    "amount": "199.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "249.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 20,
+                "savings_amount": {
+                    "amount": "50.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "20% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0DMBXVFDK"
+            },
+            {
+                "deal_id": "ac3acf10",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Ring Battery Doorbell with Ring Indoor Cam 2nd Gen (White)",
+                "deal_photo": "https://m.media-amazon.com/images/I/61xb7m6EMpL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/All-new-Ring-Battery-Doorbell-Indoor/dp/B0D9344TXC",
+                "canonical_deal_url": "https://www.amazon.com/deal/ac3acf10",
+                "deal_starts_at": "2025-06-17T07:00:00.000Z",
+                "deal_ends_at": "2025-07-12T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "69.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "139.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 50,
+                "savings_amount": {
+                    "amount": "70.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "50% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0D9344TXC"
+            },
+            {
+                "deal_id": "bcc858b3",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Washing Machine Cleaner Descaler 24 Pack - Deep Cleaning Tablets For HE Front Loader & Top Load Washer, Septic Safe Eco-Friendly Deodorizer, Clean Inside Drum and Laundry Tub Seal - 12 Month Supply",
+                "deal_photo": "https://m.media-amazon.com/images/I/81ROAg8vJdL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Washing-Machine-Cleaner-Descaler-Pack/dp/B08DVFZTTG",
+                "canonical_deal_url": "https://www.amazon.com/deal/bcc858b3",
+                "deal_starts_at": "2025-06-23T07:00:00.000Z",
+                "deal_ends_at": "2025-06-30T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "15.55",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "19.95",
+                    "currency": "USD"
+                },
+                "savings_percentage": 22,
+                "savings_amount": {
+                    "amount": "4.4",
+                    "currency": "USD"
+                },
+                "deal_badge": "22% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B08DVFZTTG"
+            },
+            {
+                "deal_id": "752102dc",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Best Choice Products 10x10ft 1-Person Setup Pop Up Canopy Tent Instant Portable Shelter w/ 1-Button Push, Case, 4 Weight Bags - Blue",
+                "deal_photo": "https://m.media-amazon.com/images/I/6136B-f-FmL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Best-Choice-Products-1-Person-Portable/dp/B086382C2J",
+                "canonical_deal_url": "https://www.amazon.com/deal/752102dc",
+                "deal_starts_at": "2025-06-16T07:00:00.000Z",
+                "deal_ends_at": "2025-06-30T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "109.98",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "159.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 31,
+                "savings_amount": {
+                    "amount": "50.01",
+                    "currency": "USD"
+                },
+                "deal_badge": "31% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B086382C2J"
+            },
+            {
+                "deal_id": "4bb7ddb8",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "REDTIGER Dash Cam Front Rear, 4K/2.5K Full HD Dash Camera for Cars, Included 32GB Card, Built-in Wi-Fi GPS, APP Control, 3.18\" IPS Screen, Night Vision, Wide Angle, WDR, 24H Parking Mode(F7NP)",
+                "deal_photo": "https://m.media-amazon.com/images/I/71hLmfRBteL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/REDTIGER-Camera-Included-170%C2%B0Wide-Parking/dp/B098WVKF19",
+                "canonical_deal_url": "https://www.amazon.com/deal/4bb7ddb8",
+                "deal_starts_at": "2025-06-16T07:00:00.000Z",
+                "deal_ends_at": "2025-06-30T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "89.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "199.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 55,
+                "savings_amount": {
+                    "amount": "110.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "55% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B098WVKF19"
+            },
+            {
+                "deal_id": "cecd36f7",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "EGO Power+ LM2135SP 21-Inch Self-Propelled Lawn Mower Kit (7.5Ah Battery and Rapid Charger Included), get (1) extra BA2800T 5.0Ah Battery",
+                "deal_photo": "https://m.media-amazon.com/images/I/61ai6ulO+DL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/EGO-Power-LM2135SP-Self-Propelled-Technology/dp/B0CTL2QFN7",
+                "canonical_deal_url": "https://www.amazon.com/deal/cecd36f7",
+                "deal_starts_at": "2025-06-01T07:00:00.000Z",
+                "deal_ends_at": "2025-07-01T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "599.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "1048.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 43,
+                "savings_amount": {
+                    "amount": "449.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "43% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0CTL2QFN7"
+            },
+            {
+                "deal_id": "eeb1122b",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Amazon Fire TV 32\" 2-Series (newest model), HD smart TV with Fire TV Alexa Voice Remote, stream live TV without cable",
+                "deal_photo": null,
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/amazon-fire-tv-32-inch-2-series-hd-smart-tv/dp/B0CJDSNN4T",
+                "canonical_deal_url": "https://www.amazon.com/deal/eeb1122b",
+                "deal_starts_at": "2025-06-16T17:00:00.000Z",
+                "deal_ends_at": "2025-07-12T06:55:00.000Z",
+                "deal_price": {
+                    "amount": "109.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "149.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 27,
+                "savings_amount": {
+                    "amount": "40.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "27% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0CJDSNN4T"
+            },
+            {
+                "deal_id": "b9429f2b",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Hoover PowerScrub Deluxe Carpet Cleaner Machine for Carpet and Upholstery, Deep Cleaning Carpet Shampooer Machine with Multi-Purpose Tools, Pair Carpet Cleaner Solution",
+                "deal_photo": "https://m.media-amazon.com/images/I/712BlNJR10L.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Hoover-PowerScrub-Multi-Purpose-Shampooer-FH50150NC/dp/B009ZJ2M7G",
+                "canonical_deal_url": "https://www.amazon.com/deal/b9429f2b",
+                "deal_starts_at": "2025-06-15T07:00:00.000Z",
+                "deal_ends_at": "2025-06-29T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "149.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "219.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 32,
+                "savings_amount": {
+                    "amount": "70.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "32% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B009ZJ2M7G"
+            },
+            {
+                "deal_id": "66cc6b47",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "SAMSUNG Galaxy S24 FE AI Phone, 256GB Unlocked Android Smartphone, High-Res 50MP Camera, Long Battery Life, Brighter Display Screen, US Version, 2024, US 1 Yr Manufacturer Warranty, Graphite",
+                "deal_photo": "https://m.media-amazon.com/images/I/51SG-FYxj7L.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/SAMSUNG-Unlocked-Smartphone-High-Res-Manufacturer/dp/B0DCLGFD1D",
+                "canonical_deal_url": "https://www.amazon.com/deal/66cc6b47",
+                "deal_starts_at": "2025-06-16T07:00:00.000Z",
+                "deal_ends_at": "2025-06-30T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "584.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "709.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 18,
+                "savings_amount": {
+                    "amount": "125.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "18% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0DCLGFD1D"
+            },
+            {
+                "deal_id": "9eea09e7",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Midea 12,000 BTU Smart Inverter Air Conditioner Window Unit with Heat and Dehumidifier \u2013 Cools up to 550 Sq. Ft., Energy Star Rated, Quiet Operation, Electronic Controls, Remote Control, White",
+                "deal_photo": "https://m.media-amazon.com/images/I/71QonMhu34L.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Midea-Cooling-Inverter-Window-Conditioner/dp/B0B3NJGSKL",
+                "canonical_deal_url": "https://www.amazon.com/deal/9eea09e7",
+                "deal_starts_at": "2025-06-12T07:00:00.000Z",
+                "deal_ends_at": "2025-07-01T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "421.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "499.0",
+                    "currency": "USD"
+                },
+                "savings_percentage": 15,
+                "savings_amount": {
+                    "amount": "77.01",
+                    "currency": "USD"
+                },
+                "deal_badge": "15% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0B3NJGSKL"
+            },
+            {
+                "deal_id": "a733c473",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Mac Sports Collapsible Outdoor Utility Wagon with Folding Table and Drink Holders, Gray",
+                "deal_photo": "https://m.media-amazon.com/images/I/61UCxgJQsnL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Mac-Sports-Collapsible-Outdoor-Utility/dp/B072JWBP66",
+                "canonical_deal_url": "https://www.amazon.com/deal/a733c473",
+                "deal_starts_at": "2025-06-23T19:00:00.000Z",
+                "deal_ends_at": "2025-07-12T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "43.4",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "119.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 64,
+                "savings_amount": {
+                    "amount": "76.59",
+                    "currency": "USD"
+                },
+                "deal_badge": "64% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B072JWBP66"
+            },
+            {
+                "deal_id": "a1cde0dc",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Bissell PowerClean FurGuard 280W Self-Standing Cordless Vacuum w/Self-Cleaning Brush Roll, Strong Suction, Removeable Battery, Wall Mount, Upholstery Tool & Bright Headlights",
+                "deal_photo": "https://m.media-amazon.com/images/I/51so1B5AQ3L.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/PowerClean-Self-Standing-Self-Cleaning-Removeable-Upholstery/dp/B0DQLLPYGM",
+                "canonical_deal_url": "https://www.amazon.com/deal/a1cde0dc",
+                "deal_starts_at": "2025-05-31T07:00:00.000Z",
+                "deal_ends_at": "2025-06-29T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "199.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "269.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 26,
+                "savings_amount": {
+                    "amount": "70.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "26% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0DQLLPYGM"
+            },
+            {
+                "deal_id": "7c62fbbe",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "TRAILVIBER Walking Pad Treadmill with 12% 9-Level Auto Incline, 450 lbs Capacity and RGB LED Screen Under Desk Treadmill with Hiking Mode, Compact Treadmills for Home Small/Office",
+                "deal_photo": "https://m.media-amazon.com/images/I/71sH9+gxMdL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/TRAILVIBER-Treadmill-Capacity-Portable-Treadmills/dp/B0D6BFMNN5",
+                "canonical_deal_url": "https://www.amazon.com/deal/7c62fbbe",
+                "deal_starts_at": "2025-06-22T07:00:00.000Z",
+                "deal_ends_at": "2025-06-29T06:45:00.000Z",
+                "deal_price": {
+                    "amount": "296.0",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "449.0",
+                    "currency": "USD"
+                },
+                "savings_percentage": 34,
+                "savings_amount": {
+                    "amount": "153.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "34% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0D6BFMNN5"
+            },
+            {
+                "deal_id": "f63ec869",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "FrSara Neck Fan, Portable Personal Fan Strong Wind, 5200mAh, Air Volume,360\u00b0 Cooling, No Hair Twisting, Air Volume On 2 Sides, Non-Slip, Quick Charge, Long Use Time, Gift for Father, Dad, Women",
+                "deal_photo": null,
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/FrSara-Portable-Adjustable-Twisting-Non-Slip/dp/B08FZJKCJ9",
+                "canonical_deal_url": "https://www.amazon.com/deal/f63ec869",
+                "deal_starts_at": "2025-06-16T07:00:00.000Z",
+                "deal_ends_at": "2025-06-30T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "26.98",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "33.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 21,
+                "savings_amount": {
+                    "amount": "7.01",
+                    "currency": "USD"
+                },
+                "deal_badge": "21% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B08FZJKCJ9"
+            },
+            {
+                "deal_id": "00df01b5",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Amazon Fire TV 50\" 4-Series 4K UHD smart TV, stream live TV without cable, 2024 release",
+                "deal_photo": "https://m.media-amazon.com/images/I/71ka3DKN63L.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/amazon-fire-tv-50-inch-4-series-4k-smart-tv/dp/B0CZBLZYY5",
+                "canonical_deal_url": "https://www.amazon.com/deal/00df01b5",
+                "deal_starts_at": "2025-06-16T17:00:00.000Z",
+                "deal_ends_at": "2025-07-12T06:55:00.000Z",
+                "deal_price": {
+                    "amount": "259.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "399.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 35,
+                "savings_amount": {
+                    "amount": "140.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "35% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0CZBLZYY5"
+            },
+            {
+                "deal_id": "42bc4055",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Whynter Portable Air Conditioner 14,000 BTU with Dual Hose Dehumidifier & Cooling Fan for 500 Sq Ft Rooms, Includes AC Unit Window Kit, ARC-14S (9,500 SACC)",
+                "deal_photo": "https://m.media-amazon.com/images/I/61OgaWOVA9L.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Whynter-ARC-14S-Conditioner-Dehumidifier-Activated/dp/B0028AYQDC",
+                "canonical_deal_url": "https://www.amazon.com/deal/42bc4055",
+                "deal_starts_at": "2025-06-19T07:00:00.000Z",
+                "deal_ends_at": "2025-07-02T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "474.05",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "599.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 21,
+                "savings_amount": {
+                    "amount": "125.94",
+                    "currency": "USD"
+                },
+                "deal_badge": "21% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0028AYQDC"
+            },
+            {
+                "deal_id": "92998f84",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Dyson V8 Plus Cordless Vacuum, Silver/Nickel",
+                "deal_photo": "https://m.media-amazon.com/images/I/6122QSTrLOL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Dyson-Cordless-Vacuum-Silver-Nickel/dp/B0CT9552BL",
+                "canonical_deal_url": "https://www.amazon.com/deal/92998f84",
+                "deal_starts_at": "2025-06-15T07:00:00.000Z",
+                "deal_ends_at": "2025-07-03T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "349.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "469.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 26,
+                "savings_amount": {
+                    "amount": "120.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "26% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0CT9552BL"
+            },
+            {
+                "deal_id": "a733c473",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Champion Power Equipment 4250-Watt Wireless Remote Start RV Ready Portable Open Frame Inverter Generator with Quiet Technology",
+                "deal_photo": "https://m.media-amazon.com/images/I/818-Xm5fsGL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Champion-Power-Equipment-200953-4250-Watt/dp/B08JSCLXXT",
+                "canonical_deal_url": "https://www.amazon.com/deal/a733c473",
+                "deal_starts_at": "2025-06-23T19:00:00.000Z",
+                "deal_ends_at": "2025-07-12T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "378.96",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "769.0",
+                    "currency": "USD"
+                },
+                "savings_percentage": 51,
+                "savings_amount": {
+                    "amount": "390.04",
+                    "currency": "USD"
+                },
+                "deal_badge": "51% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B08JSCLXXT"
+            },
+            {
+                "deal_id": "92d34b5c",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Best Choice Products Set of 2 Adjustable Steel Mesh Zero Gravity Lounge Chair Recliners w/Pillows and Cup Holder Trays - Navy Blue",
+                "deal_photo": "https://m.media-amazon.com/images/I/81MP7Ad2ywL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Best-Choice-Products-Adjustable-Recliners/dp/B01MT929UQ",
+                "canonical_deal_url": "https://www.amazon.com/deal/92d34b5c",
+                "deal_starts_at": "2025-06-16T07:00:00.000Z",
+                "deal_ends_at": "2025-06-30T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "99.98",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "129.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 23,
+                "savings_amount": {
+                    "amount": "30.01",
+                    "currency": "USD"
+                },
+                "deal_badge": "23% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B01MT929UQ"
+            },
+            {
+                "deal_id": "67182ce3",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "BALENNZ Athletic Shorts for Men with Pockets and Elastic Waistband Quick Dry Activewear",
+                "deal_photo": "https://m.media-amazon.com/images/I/61PZ3tbQ+eL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/BALENNZ-Athletic-Pockets-Waistband-Activewear/dp/B08JGBB9N1",
+                "canonical_deal_url": "https://www.amazon.com/deal/67182ce3",
+                "deal_starts_at": "2025-06-16T07:00:00.000Z",
+                "deal_ends_at": "2025-06-30T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "22.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "43.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 48,
+                "savings_amount": {
+                    "amount": "21.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "48% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B08JGBB9N1"
+            },
+            {
+                "deal_id": "effe435f",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "LEVOIT Cordless Vacuum Cleaner, Stick Vac with Tangle-Resistant Design, Up to 50 Minutes, Powerful Suction, Rechargeable, Lightweight, and Versatile for Carpet, Hard Floor, Pet Hair, LVAC-200",
+                "deal_photo": "https://m.media-amazon.com/images/I/71iS-sWLrNL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/LEVOIT-Tangle-Resistant-Rechargeable-Lightweight-Versatile/dp/B0CB6B2JWG",
+                "canonical_deal_url": "https://www.amazon.com/deal/effe435f",
+                "deal_starts_at": "2025-06-17T07:00:00.000Z",
+                "deal_ends_at": "2025-07-01T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "149.96",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "199.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 25,
+                "savings_amount": {
+                    "amount": "50.03",
+                    "currency": "USD"
+                },
+                "deal_badge": "25% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0CB6B2JWG"
+            }
+        ],
+        "total_deals": 500,
+        "country": "US",
+        "domain": "www.amazon.com"
+    }
+}
